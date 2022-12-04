@@ -47,7 +47,7 @@ Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fá
 
 1. Clone o código fonte
 
-   ````https://github.com/joosecj/desafio-consulta-vendas````
+   ````https://github.com/VitorRiboli/desafio-consulta-vendas````
 
 2. Em sua IDE de preferência(utilizei Intellij), importe a pasta **backend** e faça o update das dependências do maven.
 
